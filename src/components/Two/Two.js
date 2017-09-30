@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './Two.css';
-import Pic02 from '../../static/media/images/pic02.jpg';
-import Pic03 from '../../static/media/images/pic03.jpg';
-import Pic04 from '../../static/media/images/pic04.jpg';
+import Pic02 from '../../static/images/pic02.jpg';
+import Pic03 from '../../static/images/pic03.jpg';
+import Pic04 from '../../static/images/pic04.jpg';
 
 
 class Two extends Component {

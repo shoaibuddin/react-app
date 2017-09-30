@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './One.css';
-import Pic01 from '../../static/media/images/pic01.jpg';
+import Pic01 from '../../static/images/pic01.jpg';
 
 class One extends Component {
   render() {

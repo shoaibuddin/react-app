@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import One from './components/One/One';
+import One from '../../components/One/One';
 
 
 it('renders without crashing', () => {

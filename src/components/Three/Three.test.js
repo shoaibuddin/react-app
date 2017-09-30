@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Three from './components/Three/Three';
+import Three from '../../components/Three/Three';
 
 
 it('renders without crashing', () => {
